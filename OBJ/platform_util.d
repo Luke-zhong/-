@@ -1,0 +1,16 @@
+..\obj\platform_util.o: D:\keil5\ARM\PACK\ARM\mbedTLS\1.6.0\library\platform_util.c
+..\obj\platform_util.o: D:\keil5\ARM\PACK\ARM\mbedTLS\1.6.0\include\mbedtls/config.h
+..\obj\platform_util.o: D:\学习资料\阿里云项目相关\门禁\USER\RTE\Security\mbedTLS_config.h
+..\obj\platform_util.o: D:\keil5\ARM\PACK\ARM\mbedTLS\1.6.0\include\mbedtls/check_config.h
+..\obj\platform_util.o: D:\keil5\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\platform_util.o: D:\keil5\ARM\PACK\ARM\mbedTLS\1.6.0\include\mbedtls/platform_util.h
+..\obj\platform_util.o: D:\keil5\ARM\PACK\ARM\mbedTLS\1.6.0\include\mbedtls/config.h
+..\obj\platform_util.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\platform_util.o: D:\keil5\ARM\PACK\ARM\mbedTLS\1.6.0\include\mbedtls/platform.h
+..\obj\platform_util.o: D:\keil5\ARM\PACK\ARM\mbedTLS\1.6.0\include\mbedtls/config.h
+..\obj\platform_util.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\platform_util.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\platform_util.o: D:\keil5\ARM\ARMCC\Bin\..\include\time.h
+..\obj\platform_util.o: D:\keil5\ARM\PACK\ARM\mbedTLS\1.6.0\include\mbedtls/threading.h
+..\obj\platform_util.o: D:\keil5\ARM\PACK\ARM\mbedTLS\1.6.0\include\mbedtls/config.h
+..\obj\platform_util.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
